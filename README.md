@@ -434,7 +434,7 @@ Ensure you have the following software installed on your system:
 
 ### Step 2: Clone the Repository
 ```bash
-git clone https://github.com/SandeshPatil2003/quick_park_assist.git
+git clone https://github.com/Mahima-Pattanayak/Quick-Park-Assist-.git
 ```
 
 # Project Setup & Configuration
